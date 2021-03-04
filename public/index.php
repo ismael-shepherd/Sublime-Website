@@ -112,8 +112,8 @@ require '../partials/header.php';
 <div class="featured-box featured-box-effect-4">
 <div class="box-content">
 <i class="icon-featured icon-map icons text-color-primary bg-color-grey"></i>
-<h4 class="font-weight-bold" style="color: #212529;">Contenu</h4>
-<p class="px-3">GTALife tend à proposer un contenu unique et inédit pour sa communauté.</p>
+<h4 class="font-weight-bold" style="color: #212529;">Développement</h4>
+<p class="px-3">Un développement constant est apporter à Sublime Life.</p>
 </div>
 </div>
 </div>
@@ -121,8 +121,8 @@ require '../partials/header.php';
 <div class="featured-box featured-box-effect-4">
 <div class="box-content">
 <i class="icon-featured icon-user icons text-color-light bg-color-primary"></i>
-<h4 class="font-weight-bold" style="color: #212529;">1000 slots</h4>
-<p class="px-3">Les serveurs de GTALife peuvent accueillir jusqu'à 1,000 personnes à la fois..</p>
+<h4 class="font-weight-bold" style="color: #212529;">Bienvenue</h4>
+<p class="px-3">Le staff est ravi de vous accueillir dans cette magnifique ville qui est Sublime Life</p>
 </div>
 </div>
 </div>
